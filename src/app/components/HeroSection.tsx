@@ -1,7 +1,7 @@
  
  import React from "react";
 import Image from "next/image";
-import typeWriter from "./typeWriter";
+
 import TypeWriter from "./typeWriter";
 const HeroSection = () => {
   return (

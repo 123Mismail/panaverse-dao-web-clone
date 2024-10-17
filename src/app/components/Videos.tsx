@@ -115,7 +115,7 @@ const VideosPage = () => {
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     referrerPolicy="strict-origin-when-cross-origin"
     allowFullScreen
-    className='rounded-lg p-0 w-full mb-1  lightning'
+    className='rounded-lg p-0 w-full  mb-1  lightning hover:ring-2 hover:ring-hover:ring-2   '
 /> : <Image src={video.image} height={200} width={250} alt='video image' className='h-[200px] w-full rounded-xl lightning'></Image>}
     
   {/* video detail */}

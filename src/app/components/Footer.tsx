@@ -59,9 +59,9 @@ const Footer = () => {
         <h2 className="title-font font-medium text-lg mb-3 text-black ">
           SOCIAL MEDIA LINKS
         </h2>
-        <nav className="list-none mb-10 cursor-pointer text-[#00616C]">
+        <nav className="list-none mb-10 cursor-pointer   text-[#00616C]">
           <li>
-            <a className=" flex   items-center gap-1 group"> <FaFacebook className='text-xl group-hover:scale-95 duration-300 '/>Facebook </a>
+            <a className=" flex   items-center gap-1  group"> <FaFacebook className='text-xl group-hover:scale-95 duration-300 '/>Facebook </a>
           </li>
           <li>
             <a className="flex   items-center gap-1  group"><FaTwitterSquare className='text-xl group-hover:scale-95 duration-300 '/> Twitter</a>

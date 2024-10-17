@@ -53,8 +53,8 @@ const SpecialTracks = () => {
           </p>
         </div>
         <div className="container px-5 py-24 mx-auto flex sm:flex-nowrap flex-wrap">
-          <div className="lg:w-2/3 md:w-1/2  rounded-lg overflow-hidden sm:mr-10 p-10 flex items-start justify-start relative border border-[#00616C4D] lightning">
-            <div className="">
+          <div className="lg:w-2/3 md:w-1/2  rounded-lg overflow-hidden sm:mr-10 p-10 flex items-start justify-start relative border border-[#00616C4D] lightning hover:ring-2 hover:ring-[#3fe7fadf]">
+            <div >
               <h2 className="text-[#00616C] text-[14px] font-medium ">
                 Specialized Program
               </h2>
