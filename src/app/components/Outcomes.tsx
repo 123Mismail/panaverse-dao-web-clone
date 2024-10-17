@@ -12,7 +12,7 @@ const Outcomes = () => {
               height={1050}
               width={1050}
               alt="ecommerce"
-              src={"/left.png"}
+              src={'/Left.png'}
               className="lightning rounded-full"
             />
             {/* right side */}
